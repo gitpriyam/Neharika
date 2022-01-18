@@ -1,1 +1,1 @@
-echo "you are in github repository date %date% , time %time%"
+System.out.println("Hello, World!");
